@@ -24,3 +24,11 @@ Problem Sets
 
 #### Week 5 [Data Structures](https://cs50.harvard.edu/x/2021/psets/5)
 [Speller](https://github.com/DanielTran0/CS50/blob/main/pset5/speller/dictionary.c): Create the fastest spell checker possible using a dictionary of 140,000 words and any input text.  
+
+#### Week 6 [Python](https://cs50.harvard.edu/x/2021/psets/6)
+[Hello](https://github.com/DanielTran0/CS50/blob/main/pset6/hello/hello.py): Same as Week 1 but in Python.  
+[Mario 1](https://github.com/DanielTran0/CS50/blob/main/pset6/mario/less/mario.py): Same as Week 1 but in Python.  
+[Mario 2](https://github.com/DanielTran0/CS50/blob/main/pset6/mario/more/mario.py): Same as Week 1 but in Python.  
+[Cash](https://github.com/DanielTran0/CS50/blob/main/pset6/cash/cash.py): Same as Week 1 but in Python.  
+[Credit](https://github.com/DanielTran0/CS50/blob/main/pset6/credit/credit.py): Same as Week 1 but in Python.  
+[DNA](https://github.com/DanielTran0/CS50/blob/main/pset6/dna/dna.py): Given a data sheet with a dna sequence, comb though it finding reapeting dna sequences and compare them to another data sheet to identify a person.
