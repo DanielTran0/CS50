@@ -32,3 +32,7 @@ Problem Sets
 [Cash](https://github.com/DanielTran0/CS50/blob/main/pset6/cash/cash.py): Same as Week 1 but in Python.  
 [Credit](https://github.com/DanielTran0/CS50/blob/main/pset6/credit/credit.py): Same as Week 1 but in Python.  
 [DNA](https://github.com/DanielTran0/CS50/blob/main/pset6/dna/dna.py): Given a data sheet with a dna sequence, comb though it finding reapeting dna sequences and compare them to another data sheet to identify a person.
+
+#### Week 7 [SQL](https://cs50.harvard.edu/x/2021/psets/7)
+[Movies](https://github.com/DanielTran0/CS50/tree/main/pset7/movies): Write various SQL queries on a movie database to obtain data required by the prompts.  
+[Fiftyville](https://github.com/DanielTran0/CS50/blob/main/pset7/fiftyville/log.sql): Using SQL queries figure out who the thief is by going through witness interviews, phone call records, bank statements, flights and more.  
