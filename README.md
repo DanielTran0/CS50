@@ -36,3 +36,7 @@ Problem Sets
 #### Week 7 [SQL](https://cs50.harvard.edu/x/2021/psets/7)
 [Movies](https://github.com/DanielTran0/CS50/tree/main/pset7/movies): Write various SQL queries on a movie database to obtain data required by the prompts.  
 [Fiftyville](https://github.com/DanielTran0/CS50/blob/main/pset7/fiftyville/log.sql): Using SQL queries figure out who the thief is by going through witness interviews, phone call records, bank statements, flights and more.  
+
+#### Week 9 [Flask](https://cs50.harvard.edu/x/2021/psets/9)
+[Finance](https://github.com/DanielTran0/CS50/blob/main/pset9/finance/application.py): Create a web application that a user can register for to buy and sell stocks.  
+ 
