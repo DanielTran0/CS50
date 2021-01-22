@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Portfolio
+{% endblock %}
+
+{% block main %}
+<h2>Portfolio</h2>
+<table>
+    <thead>
+        <tr>
+            <th class="th">Symbol</th>
+            <th class="th">Name</th>
+            <th class="th">Shares</th>
+            <th class="th">Price</th>
+            <th class="th">Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for i in range(length) %}
+            <tr>
+                <td>{{ symbols[i] }}</td>
+                <td>{{ names[i] }}</td>
+                <td>{{ shares[i] }}</td>
+                <td>{{ prices[i] | usd }}</td>
+                <td>{{ totals[i] | usd }}</td>
+            </tr>
+        {% endfor %}
+        <tr>
+            <td>Cash</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>{{ cash | usd }}</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>{{ final_total | usd }}</td>
+        </tr>
+    </tbody>
+</table>
+
+{% endblock %}
